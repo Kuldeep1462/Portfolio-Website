@@ -1,15 +1,16 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export', // ✅ Required for static export (replaces `next export`)
+  output: 'export',
+  basePath: '/Portfolio-Website',
+  images: {
+    unoptimized: true,
+  },
   eslint: {
     ignoreDuringBuilds: true,
   },
   typescript: {
     ignoreBuildErrors: true,
   },
-  images: {
-    unoptimized: true, // ✅ Required for static export if using next/image
-  },
-}
+};
 
-export default nextConfig
+export default nextConfig;
