@@ -6,12 +6,6 @@ Welcome to my personal portfolio website built with **Next.js**, designed to sho
 
 ---
 
-## 📸 Preview
-
-![Portfolio Preview](https://raw.githubusercontent.com/Kuldeep1462/Portfolio-Website/main/public/preview.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js (React)
