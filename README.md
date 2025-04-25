@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website built with **Next.js**, designed to showcase my projects, skills, and resume. The site is fully responsive and optimized for performance.
 
-🌐 **Live Site**: [https://kuldeep-portfolio-website.vercel.app](https://kuldeep-portfolio-website.vercel.app)
+🌐 **Live Site**: [https://kuldeep12-portfolio.vercel.app/](https://kuldeep12-portfolio.vercel.app/)
 
 ---
 
